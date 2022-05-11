@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @iyra
+- 👀 I’m interested in designing and coding
+- 🌱 I’m currently learning javascript. 
